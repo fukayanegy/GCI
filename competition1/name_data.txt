@@ -1,0 +1,17 @@
+Capt		1
+Col 		2
+Don 		1
+Major	1
+Mlle		2
+Mme	1
+Ms		1
+Sir		1
+the Countess 1
+
+Master	0
+Miss		1
+Mr		2
+Mrs		3
+Dr		4
+Rev		5
+others	6
